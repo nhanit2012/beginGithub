@@ -1,0 +1,35 @@
+Nguyễn Tấn Nhân, nhannt@dienquang.com; Nguyên Nhân, nhanit2012.vn@gmail.com
+
+Đoàn Minh Hoàng, hoangdm@dienquang.com; Nguyễn Tấn Nhân, nhannt@dienquang.com
+
+<p>Nội dung tại đây</p>  <p><img alt="" src="https://resource-v2.apphomecare.vn/uploads/images/hoatudang1.jpg" style="height:188px; width:250px" /></p> 
+
+
+https://resource-v2.app.vn/uploads/images/hoatudang1.jpg
+
+
+
+https://resource-v2.apphttps//u14884856.ct.sendgrid.net/wf/unsubscribe?upn=APxGiOcFNG83MmejNs9JCx8BTSHg4BfMUrOriqGlreQjXTDGlo4zQOnsB-2B4fT8NiVt4HNBnD-2BraGzSp9w7uIxNnFtpgJ4IyI62JKmqRe-2BRM0Dg-2BT4SK561GlHA3kgSxUxHTAo3W-2BZCk1voSNhxaxoZkwhlNrwYdncjBXfnss5QojI49H31AVef7JylVhauVPea1lE3fJedFZQ91Co99VCO8T1mbg0UAYn-2F6g3CTDH2SJeHhPDCY4ZKWovyAzJsIJ.vn/uploads/images/hoatudang1.jpg
+
+
+
+unsubscribe
+---------------------------------------------------------------
+Tạo tài khoản + link đăng nhập
+
+Chuyển Admin
+
+
+1. Chia ra các shop (gian hàng) để bán các sản phẩm (cho phép chọn sản phẩn chồng chéo)
+	- List Shop
+	- Table trung gian để bỏ mã shop và product (3 key: ShopID, ProdId, ChanelId): giá bán, giá niêm yết
+	- Product	
+	- Kênh phân phối: web + App Engineer + App Enduser
+	- 
+
+	-Voucher --> Gift -->Chanel
+
+2.
+
+
+69654 - Ngô Văn Cương
